@@ -1,0 +1,1 @@
+●	Designed and developed a responsive personal art portfolio website by customizing HTML/CSS from a pre-made template. Developed personas, wireframes and comprehensive layouts for both desktop and mobile versions of the website. Ensured an optimal UX and a cohesive design.
